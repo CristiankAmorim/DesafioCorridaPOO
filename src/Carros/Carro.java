@@ -45,7 +45,7 @@ public class Carro {
         setDistancia(getDistancia() + getVelocidade());
     }
 
-    public void venceuIniciar() {
+    public void vencedor() {
         String[] trofeu = {
                 "        . . . . . . . .        ",
                 "      . . . . . . . . . .      ",
